@@ -30,6 +30,6 @@
 
 `python3 run.py`
 
-- You should now be able to reach your the application by visiting your hostname in your browser, for example
+- You should now be able to reach the application by visiting your hostname in your browser, for example
 
 http://127.0.0.1:5000
